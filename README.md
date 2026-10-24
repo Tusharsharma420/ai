@@ -23,11 +23,14 @@ The long-term vision is broad: a platform that small businesses, agencies, growi
 
 - `docs/PRODUCT_VISION.md` — product thesis, scope, and non-goals
 - `docs/RESEARCH_PLAN.md` — market and customer research process
+- `docs/COMPETITOR_MAP.md` — preliminary competitor and alternative map
+- `docs/OPPORTUNITY_SHORTLIST.md` — candidate workflows to compare
 - `docs/SYSTEM_PRINCIPLES.md` — principles and guardrails
 - `docs/ARCHITECTURE.md` — proposed conceptual architecture, explicitly provisional
 - `docs/ROADMAP.md` — phase gates and deliverables
 - `docs/DECISIONS.md` — decisions and rationale
 - `docs/VALIDATION_LOG.md` — evidence, assumptions, and experiments
+- `docs/WORKING_AGREEMENT.md` — collaboration and definition of done
 - `templates/IDEA_BRIEF.md` — reusable template for candidate use cases
 
 ## Working rules
@@ -47,3 +50,7 @@ Progress is not measured by the number of documents, agents, or lines of code. P
 ## First milestone
 
 Complete a sourced competitor/alternative map, interview or workflow evidence, a ranked set of candidate use cases, and a documented beachhead decision before starting the product implementation.
+
+## Project tracker
+
+- [Phase 0 validation issue](https://github.com/Tusharsharma420/ai/issues/1)
