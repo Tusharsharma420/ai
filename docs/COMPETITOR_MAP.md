@@ -48,3 +48,52 @@ For each product, collect:
 ## Current conclusion
 
 The existence of strong automation and agent-building products means a generic "build and coordinate agents" pitch is unlikely to be sufficient. We need to identify a narrow workflow where current alternatives still leave expensive manual work, weak reliability, or poor visibility—and validate that gap with users before selecting a product wedge.
+
+
+## Snapshot: what the current products already cover
+
+The following is a desk-research snapshot from official pages checked on 2026-10-24. Prices and packaging can change; verify before purchase or positioning.
+
+### Notion — work and knowledge workspace with agents
+- The official pricing page lists Plus at $10/member/month and Business at $20/member/month when shown in USD; Enterprise is custom priced.
+- Business includes Notion Agent, AI meeting notes, enterprise search beta, SAML SSO, granular database permissions, and private teamspaces.
+- Custom Agents are described as credit-based: $10 per 1,000 monthly Notion credits after trial/allowances, subject to plan and current terms.
+- Official source: https://www.notion.com/pricing
+- Product/credit details: https://www.notion.com/product/ai
+- Implication: “documents + tasks + knowledge + agents” is already an active bundle. We need a clearer outcome-based wedge than a general workspace.
+
+### Microsoft Copilot Studio — enterprise agent authoring and governance
+- The India pricing page lists Microsoft 365 Copilot at ₹2,495/user/month paid yearly (GST extra), subject to a qualifying Microsoft 365 plan. Copilot Studio also offers prepaid credit packs and pay-as-you-go, and requires an Azure subscription.
+- The same page lists 25,000 Copilot Credits at ₹16,640 per month for the pre-purchase pack. Verify current licensing and eligibility directly.
+- Official source: https://www.microsoft.com/en-in/microsoft-365-copilot/pricing/copilot-studio
+- Implication: enterprise agent building, internal workflows, and usage-based billing are established offerings; a new entrant needs a focused segment/workflow or a demonstrable advantage.
+
+### n8n — workflow automation for technical teams
+- The official pricing page lists Starter at €20/month billed annually for 2,500 workflow executions, Pro at €50/month billed annually for 10,000 executions, and a Business plan listed at €667/month billed annually with self-hosting and collaboration/governance features. Enterprise is custom priced.
+- Plans/features and pricing can vary by hosting model and change over time; use the official page for the current quote.
+- Official source: https://n8n.io/pricing/
+- Licensing note: n8n's official FAQ says its free self-hosted Sustainable Use License permits building/running workflows for clients on your own instance under stated conditions, but offering a hosted workflow-building service or letting outside customers configure workflows may require a commercial license.
+- Licensing source: https://support.n8n.io/article/can-i-use-your-license-for-my-use-case
+- Implication: do not assume that wrapping an open-source automation engine into a customer-facing SaaS is license-free. Workflow automation itself is not an empty market.
+
+### Zapier — broad app connectivity plus governed AI steps
+- Zapier says it connects to 9,000+ apps and supports model tiers, tool calls, activity history, guardrails, and human approval options in its AI workflow product.
+- Its official help page explains AI-step usage varies by model tier: Standard 1x, Advanced 3x, Premium 5x, with tool calls billed at the same selected rate.
+- Official platform: https://zapier.com/
+- Official AI usage pricing: https://help.zapier.com/hc/en-us/articles/46597632373389-AI-by-Zapier-new-model-based-pricing-starting-June-15-2026
+- Task rates: https://zapier.com/pricing/rates
+- Implication: model choice, tool access, app integrations, workflow history, and approvals are already part of competing offerings. Our differentiation cannot simply be “agents can use tools.”
+
+## Preliminary user/community signals (anecdotal, not representative)
+
+Recent public Reddit discussions describe small-business automation interests around lead response/follow-up, appointment scheduling, support triage, CRM updates, data entry, and reporting. Some comments emphasize that owners care about saved time and concrete outcomes more than the label “AI agent.”
+- Example discussion on practical automations: https://www.reddit.com/r/AiAutomations/comments/1w91fvy/the_most_useful_ai_automations_are_usually_the/
+- Example discussion on small-business workflow needs: https://www.reddit.com/r/AiForSmallBusiness/comments/1oz17xb/small_businesses_keep_asking_for_ai_but_these/
+- Example discussion on selling automation services: https://www.reddit.com/r/automation/comments/1vk3aig/anyone_here_actually_make_money_doing_ai/
+These are self-selected online comments and promotional posts; they suggest interview questions but do not establish market size, prevalence, or willingness to pay.
+
+## Refined working hypothesis
+
+A generic agent builder/workspace would compete directly with capable incumbents. A more testable wedge is: **deliver one valuable business workflow end-to-end with less setup and maintenance than existing tools, while making completion, exceptions, approvals, and ROI visible.**
+
+This remains a hypothesis. Customer interviews and a pilot must determine whether it is true for any candidate segment.
