@@ -13,6 +13,7 @@ Use this log to distinguish evidence from assumptions. Link detailed notes and s
 | H-005 | Customers may pay for completed outcomes, not only an agent builder | Unvalidated | Low | Test a priced pilot or concrete purchase commitment |
 
 ## Evidence entry template
+
 ### E-XXX — Short title
 - **Date collected:**
 - **Type:** Interview / Workflow observation / Product docs / Pricing / Institutional research / Experiment / Other
@@ -27,6 +28,7 @@ Use this log to distinguish evidence from assumptions. Link detailed notes and s
 - **Follow-up action:**
 
 ## Experiment template
+
 ### X-XXX — Experiment name
 - **Hypothesis:**
 - **Target user:**
@@ -37,7 +39,7 @@ Use this log to distinguish evidence from assumptions. Link detailed notes and s
 - **Duration/sample:**
 - **Observed results:**
 - **Decision:** Continue / Modify / Stop
-- **Learning:
+- **Learning:**
 
 ## Research integrity
 - Do not invent customer quotes, interview counts, benchmarks, or market statistics.
