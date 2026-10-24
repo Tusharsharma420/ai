@@ -23,6 +23,7 @@ The long-term vision is broad: a platform that small businesses, agencies, growi
 
 - `docs/PRODUCT_VISION.md` — product thesis, scope, and non-goals
 - `docs/RESEARCH_PLAN.md` — market and customer research process
+- `docs/INTERVIEW_GUIDE.md` — customer discovery interview script
 - `docs/COMPETITOR_MAP.md` — preliminary competitor and alternative map
 - `docs/OPPORTUNITY_SHORTLIST.md` — candidate workflows to compare
 - `docs/SYSTEM_PRINCIPLES.md` — principles and guardrails
